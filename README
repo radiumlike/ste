@@ -1,0 +1,4 @@
+build with TKinter 
+py3k
+CX-freeze to wrap it up for win32 and the rest
+binary mode is planning
